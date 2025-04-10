@@ -1,0 +1,145 @@
+bike_name,brand,city,kms_driven,owner,age,power (bhp),engine (cc),price (INR)
+Yamaha RD500LC,Yamaha,Mumbai,22000,First,35,88,499,325000
+Yamaha FZR600 Genesis,Yamaha,Delhi,32000,Second,33,85,599,180000
+Yamaha R6 (2006),Yamaha,Pune,15000,First,19,122,599,520000
+Yamaha R1 (2009),Yamaha,Bangalore,14000,First,15,180,998,750000
+Yamaha MT-10 (2021),Yamaha,Chennai,7000,First,3,165,998,1150000
+Honda CB750 Four (1975),Honda,Delhi,48000,Second,49,67,736,165000
+Honda CBX1000 (1980),Honda,Mumbai,38000,First,44,105,1047,240000
+Honda CBR600F (1995),Honda,Pune,30000,Second,29,100,598,180000
+Honda CBR900RR (1998),Honda,Bangalore,25000,First,26,128,919,270000
+Honda VFR800 (2002),Honda,Hyderabad,28000,Second,22,110,782,320000
+Honda CBR1000RR (2008),Honda,Chennai,19000,First,16,175,999,570000
+Honda CBR650R (2020),Honda,Jaipur,12000,First,4,95,648,720000
+Honda CBR1000RR-R SP (2023),Honda,Kochi,4000,First,1,215,999,2100000
+Suzuki GS750 (1977),Suzuki,Mumbai,55000,Second,47,63,748,150000
+Suzuki GSX1100E (1981),Suzuki,Delhi,42000,First,43,100,1075,195000
+Suzuki GSX-R750 (1985),Suzuki,Pune,36000,Third,39,106,749,165000
+Suzuki RF900R (1995),Suzuki,Bangalore,31000,Second,29,135,937,230000
+Suzuki TL1000R (2000),Suzuki,Chennai,27000,Second,24,135,996,285000
+Suzuki GSX-R1000 K5 (2005),Suzuki,Hyderabad,21000,First,19,178,999,420000
+Suzuki Hayabusa (2008),Suzuki,Jaipur,17000,First,16,194,1340,620000
+Suzuki GSX-S750 (2021),Suzuki,Kochi,8000,First,3,114,749,760000
+Suzuki GSX-R1000R (2022),Suzuki,Surat,5000,First,2,202,999,1800000
+Kawasaki Z1 900 (1972),Kawasaki,Pune,52000,Third,52,82,903,180000
+Kawasaki GPz900R (1984),Kawasaki,Delhi,43000,Second,40,115,908,210000
+Kawasaki ZZR1100 (1990),Kawasaki,Mumbai,39000,Second,34,147,1052,245000
+Kawasaki ZX-12R (2000),Kawasaki,Bengaluru,28000,First,24,178,1199,360000
+Kawasaki Ninja ZX-6R (2005),Kawasaki,Chandigarh,23000,Second,19,112,636,380000
+Kawasaki Z1000 (2010),Kawasaki,Ahmedabad,19000,First,14,138,1043,520000
+Kawasaki Ninja 1000 (2015),Kawasaki,Chennai,14000,First,9,140,1043,760000
+Kawasaki Ninja H2 (2017),Kawasaki,Hyderabad,8000,First,7,200+,998,2200000
+Kawasaki Ninja ZX-10R (2021),Kawasaki,Jaipur,6000,First,3,203,998,1650000
+Kawasaki Versys 1000 (2023),Kawasaki,Kochi,2500,First,1,120,1043,1340000
+Yamaha XS1100 (1978),Yamaha,Kolkata,60000,Third,46,95,1101,150000
+Yamaha FJ1100 (1984),Yamaha,Mumbai,44000,Second,40,125,1097,200000
+Yamaha FZR1000 (1987),Yamaha,Delhi,42000,Second,37,135,989,225000
+Yamaha YZF1000R Thunderace (1996),Yamaha,Bengaluru,36000,Second,28,145,1002,280000
+Yamaha R1 (1998),Yamaha,Chennai,32000,Second,26,150,998,330000
+Yamaha R6 (2005),Yamaha,Pune,27000,First,19,122,599,380000
+Yamaha MT-01 (2007),Yamaha,Ahmedabad,22000,First,17,90,1670,450000
+Yamaha R1 (2015),Yamaha,Hyderabad,14000,First,9,200,998,1200000
+Yamaha MT-10 (2020),Yamaha,Kochi,7000,First,4,160,998,1350000
+Yamaha R1M (2023),Yamaha,Jaipur,3000,First,1,200+,998,3000000
+Ducati 900SS (1976),Ducati,Mumbai,58000,Third,48,80,864,160000
+Ducati 851 SP3 (1991),Ducati,Delhi,39000,Second,33,111,888,210000
+Ducati 916 SPS (1995),Ducati,Bangalore,34000,Second,29,123,916,280000
+Ducati 996 (2001),Ducati,Pune,26000,First,23,112,996,390000
+Ducati 999R (2005),Ducati,Hyderabad,22000,First,19,150,999,480000
+Ducati 1098 (2007),Ducati,Kolkata,20000,First,17,160,1099,620000
+Ducati 1199 Panigale (2012),Ducati,Chennai,15000,First,12,195,1198,900000
+Ducati 1299 Panigale S (2016),Ducati,Jaipur,8000,First,8,205,1285,1350000
+Ducati Panigale V4 (2020),Ducati,Ahmedabad,5000,First,4,214,1103,2000000
+Ducati Panigale V4 SP2 (2023),Ducati,Kochi,1800,First,1,215+,1103,3300000
+MV Agusta F4 750 Serie Oro (1999),MV Agusta,Mumbai,12000,First,25,126,749,600000
+MV Agusta F4 1000 Tamburini (2005),MV Agusta,Bangalore,9000,Second,19,173,998,1050000
+MV Agusta F4 RR (2012),MV Agusta,Delhi,7000,First,12,201,998,1400000
+MV Agusta F3 800 (2014),MV Agusta,Chennai,8000,First,10,148,798,950000
+MV Agusta Brutale 800 (2017),MV Agusta,Pune,6000,First,7,140,798,880000
+MV Agusta Dragster 800 RR (2019),MV Agusta,Jaipur,4000,First,5,140,798,1050000
+MV Agusta Superveloce 800 (2021),MV Agusta,Hyderabad,2500,First,3,147,798,1200000
+MV Agusta Brutale 1000 RR (2022),MV Agusta,Kolkata,1800,First,2,208,998,3200000
+MV Agusta F4 Claudio (2020),MV Agusta,Kochi,1200,First,4,212,998,4000000
+MV Agusta Rush 1000 (2023),MV Agusta,Ahmedabad,900,First,1,208,998,4600000
+Aprilia RSV Mille (2000),Aprilia,Mumbai,18000,Second,24,128,998,350000
+Aprilia RSV4 Factory (2010),Aprilia,Delhi,10000,First,14,180,999,700000
+Aprilia RSV4 RF (2016),Aprilia,Pune,8500,First,8,201,999,1250000
+Aprilia RSV4 1100 Factory (2020),Aprilia,Chennai,6000,First,4,217,1077,1650000
+Aprilia RS 660 (2021),Aprilia,Bengaluru,3000,First,3,100,659,1150000
+Aprilia Tuono V4 1100 (2018),Aprilia,Hyderabad,7500,First,6,175,1077,1400000
+Aprilia Tuono 660 (2022),Aprilia,Kolkata,2100,First,2,95,659,980000
+Aprilia Tuareg 660 (2023),Aprilia,Jaipur,1700,First,1,80,659,1080000
+Aprilia RSV4 XTrenta (2022),Aprilia,Kochi,900,First,2,230,1099,4400000
+Aprilia RS 660 Extrema (2023),Aprilia,Ahmedabad,600,First,1,100,659,1200000
+Benelli TNT 600i (2015),Benelli,Mumbai,14000,Second,9,85,600,320000
+Benelli TNT 600i (2019),Benelli,Delhi,7000,First,5,85,600,400000
+Benelli 600RR (2021),Benelli,Bengaluru,2800,First,3,80,600,620000
+Benelli 502C (2020),Benelli,Pune,3500,First,4,47.5,500,550000
+Benelli TRK 502X (2022),Benelli,Chennai,2200,First,2,47.5,500,610000
+Benelli Leoncino 500 (2021),Benelli,Jaipur,3000,First,3,47.5,500,490000
+Benelli TRK 800 (2023),Benelli,Hyderabad,1100,First,1,76,754,850000
+Benelli Leoncino 800 Trail (2023),Benelli,Kochi,800,First,1,76,754,820000
+Benelli 752S (2022),Benelli,Kolkata,1500,First,2,76,754,800000
+Benelli BN 600GT (2016),Benelli,Ahmedabad,12000,Second,8,82,600,360000
+Moto Guzzi Griso 1200 (2015),Moto Guzzi,Delhi,9500,Second,9,110,1151,780000
+Moto Guzzi V7 Stone (2019),Moto Guzzi,Mumbai,3500,First,5,52,744,630000
+Moto Guzzi V7 Special (2021),Moto Guzzi,Bengaluru,1800,First,3,65,850,730000
+Moto Guzzi V85 TT (2020),Moto Guzzi,Chennai,4200,First,4,76,853,950000
+Moto Guzzi California 1400 Touring (2016),Moto Guzzi,Hyderabad,7000,First,8,96,1380,980000
+Moto Guzzi Audace (2017),Moto Guzzi,Pune,9000,Second,7,96,1380,850000
+Moto Guzzi Eldorado (2016),Moto Guzzi,Jaipur,6000,First,8,96,1380,900000
+Moto Guzzi Norge GT 8V (2014),Moto Guzzi,Kochi,14000,Second,10,102,1151,700000
+Moto Guzzi Stelvio 1200 NTX (2015),Moto Guzzi,Kolkata,8000,First,9,105,1151,760000
+Moto Guzzi V9 Roamer (2022),Moto Guzzi,Ahmedabad,2500,First,2,55,853,710000
+Triumph Street Triple 675 (2015),Triumph,Mumbai,9500,Second,9,106,675,520000
+Triumph Street Triple RS (2020),Triumph,Delhi,4300,First,4,121,765,910000
+Triumph Speed Triple 1050 (2016),Triumph,Bengaluru,8800,First,8,140,1050,730000
+Triumph Speed Triple 1200 RS (2023),Triumph,Pune,1200,First,1,180,1160,1550000
+Triumph Tiger 800 XRx (2018),Triumph,Chennai,17000,Second,6,94,800,740000
+Triumph Tiger 900 Rally Pro (2022),Triumph,Jaipur,3500,First,2,108,888,1150000
+Triumph Tiger Explorer 1200 (2017),Triumph,Hyderabad,12000,Second,7,137,1215,880000
+Triumph Daytona 675R (2016),Triumph,Kolkata,6900,First,8,118,675,670000
+Triumph Rocket III (2015),Triumph,Ahmedabad,11000,Second,9,148,2294,980000
+Triumph Rocket 3 R (2022),Triumph,Kochi,2500,First,2,167,2458,2100000
+Triumph Bonneville T120 (2021),Triumph,Indore,3000,First,3,80,1200,790000
+Triumph Thruxton RS (2022),Triumph,Surat,1800,First,2,105,1200,950000
+Norton Commando 961 Sport (2016),Norton,Mumbai,4500,First,8,80,961,890000
+Norton Commando 961 Cafe Racer (2018),Norton,Bengaluru,3200,First,6,80,961,970000
+Norton Dominator (2017),Norton,Delhi,2800,Second,7,80,961,1050000
+Norton V4 RR (2020),Norton,Chennai,1500,First,4,200,1200,2500000
+Norton V4 SV (2023),Norton,Pune,800,First,1,185,1200,3100000
+Indian Scout Sixty (2016),Indian,Delhi,8500,First,8,78,999,820000
+Indian Scout Bobber (2021),Indian,Mumbai,3200,First,3,95,1133,1180000
+Indian FTR 1200 (2019),Indian,Pune,4200,Second,5,123,1203,1320000
+Indian Chief Dark Horse (2022),Indian,Bangalore,2500,First,2,120,1890,2200000
+Indian Roadmaster (2018),Indian,Kolkata,10000,First,6,100,1811,2650000
+Harley Iron 883 (2015),Harley-Davidson,Delhi,9000,First,9,52,883,540000
+Harley Street Bob 114 (2020),Harley-Davidson,Mumbai,4800,Second,4,86,1868,1350000
+Harley Fat Bob 114 (2021),Harley-Davidson,Chennai,2100,First,3,94,1868,1490000
+Harley Sportster S (2022),Harley-Davidson,Pune,1500,First,2,121,1250,1570000
+Harley Road Glide Special (2023),Harley-Davidson,Bangalore,500,First,1,93,1868,2800000
+BMW F 900 R (2021),BMW,Mumbai,3000,First,3,105,895,1050000
+BMW F 850 GS (2019),BMW,Delhi,8500,Second,5,95,853,1100000
+BMW R 1250 GS (2020),BMW,Pune,6000,First,4,136,1254,1850000
+BMW S 1000 R (2018),BMW,Bangalore,9000,First,6,165,999,1420000
+BMW S 1000 RR (2023),BMW,Chennai,1200,First,1,210,999,2800000
+KTM RC 390 (2020),KTM,Mumbai,7000,First,4,44,373,240000
+KTM 790 Duke (2019),KTM,Delhi,5000,Second,5,105,799,700000
+KTM 890 Duke R (2022),KTM,Pune,3000,First,2,121,889,1080000
+KTM 1290 Super Duke R (2021),KTM,Bangalore,2000,First,3,180,1301,1650000
+KTM 1290 Super Adventure S (2020),KTM,Chennai,6500,Second,4,160,1301,1750000
+CFMoto 650NK (2021),CFMoto,Delhi,6000,First,3,61,649,480000
+CFMoto 650GT (2020),CFMoto,Mumbai,8000,Second,4,62,649,520000
+CFMoto 650MT (2022),CFMoto,Pune,3000,First,2,60,649,530000
+CFMoto 800NK (2023),CFMoto,Bangalore,1200,First,1,100,799,700000
+CFMoto 800MT (2023),CFMoto,Chennai,1000,First,1,95,799,750000
+Royal Enfield Interceptor 650 (2020),Royal Enfield,Delhi,9000,First,4,47,648,280000
+Royal Enfield Continental GT 650 (2023),Royal Enfield,Mumbai,3000,First,1,47,648,315000
+Royal Enfield Super Meteor 650 (2023),Royal Enfield,Pune,2000,First,1,47,648,370000
+Royal Enfield Shotgun 650 (2024),Royal Enfield,Bangalore,1000,First,0,47,648,400000
+Hyosung GT650R (2017),Hyosung,Delhi,14000,Second,7,72,647,200000
+Hyosung Aquila Pro 650 (2018),Hyosung,Mumbai,9000,First,6,74,647,230000
+Bimota DB8 Italia (2014),Bimota,Pune,8000,First,10,170,1198,1800000
+Norton Commando 961 Sport (2017),Norton,Bangalore,5000,First,7,80,961,1600000
+TVS Apache RR310 Custom (Race Spec),TVS,Chennai,4000,First,3,45,312,230000
+Hero-Harley X440 Modified (Track),Hero-Harley,Delhi,1500,First,1,40,440,220000
